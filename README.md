@@ -1,7 +1,7 @@
 # Applied AI Engineering & AI Agents
 
 Welcome! This repository serves as a practical showcase of my hands-on work in **Applied AI Engineering**, focusing on building, testing, and deploying intelligent AI agents and multi-agent systems using **Microsoft Azure AI Foundry** and modern AI frameworks.
-
+Link to the site in learning on: https://alh.learnondemand.net/ClassEnrollment/6046266
 ---
 
 ## 🛠️ Tech Stack & Key Technologies
